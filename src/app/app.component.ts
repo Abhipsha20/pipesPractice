@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'pipes';
+
+  users : any = { "id": 1, "name": 'Abhipsha', "city": 'Jeypore', "dob": '02-02-1998'}
+ 
 }
